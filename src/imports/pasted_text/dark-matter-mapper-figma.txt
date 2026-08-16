@@ -1,0 +1,535 @@
+Create a complete high-fidelity UI/UX design project in Figma for an educational AR/VR and space-exploration web application called “Dark Matter Mapper”. The project topic is “Dark Matter Mapper (Gravitational Lensing AR Overlay)” under the category “AR-VR: Universe & Exploration”.
+
+This is a university UI/UX project. The final result must look like a professional modern space-science product, not like a generic template. The design should be polished, realistic, visually impressive, consistent across all screens, and ready for a university project presentation. The interface should communicate gravitational lensing, dark matter, astronomy, scientific visualization, AR simulation, and interactive exploration.
+
+IMPORTANT STRUCTURE:
+Create one Figma design file with exactly three pages because the free Figma plan has a three-page limit.
+
+Page 1: “01 — Desktop Screens”
+Page 2: “02 — Mobile Screens”
+Page 3: “03 — Components & Prototype”
+
+On Page 1 create FOUR separate desktop frames:
+1. “Home”
+2. “Explore”
+3. “AR Mapper”
+4. “How It Works”
+
+Each desktop frame must be 1440 × 1024 pixels.
+
+On Page 2 create TWO separate mobile frames:
+1. “Mobile Home”
+2. “Mobile AR Mapper”
+
+Each mobile frame must be approximately 390 × 844 pixels.
+
+On Page 3 create a professional design system and reusable components including:
+- Logo
+- Navigation bar
+- Primary button
+- Secondary button
+- Filter buttons
+- Search field
+- Event card
+- Slider
+- Toggle switch
+- Status badge
+- Confidence card
+- Section labels
+- Typography examples
+- Color palette
+- Prototype interaction notes
+
+Do NOT create unnecessary extra pages.
+
+OVERALL VISUAL STYLE:
+Use a dark futuristic scientific visual language inspired by deep space, astronomy observatories, scientific dashboards, and premium AR interfaces.
+
+Main background color: #05070D.
+Secondary background/card color: #0B1018.
+Additional dark surface color: #0F1420.
+Primary text: #F4F7FF.
+Secondary text: #98A4B8.
+Muted text: #6F7B90.
+Primary purple: #9A6BFF.
+Secondary blue: #6A94FF.
+Cyan accent: #5CE1E6.
+Soft violet: #B993FF.
+Borders: subtle #202738.
+Use gradients combining purple, blue, and cyan very subtly.
+
+The interface must have a premium dark-space appearance with subtle glowing elements. Avoid excessive neon effects. Use thin borders, soft shadows, subtle gradients, large clean typography, rounded cards, and generous spacing.
+
+Typography:
+Use “Inter” for most interface text.
+Use “Space Grotesk” or another modern geometric sans-serif for large headings if available.
+Headings should be bold and clean.
+Body text should be easy to read.
+Use uppercase small section labels with letter spacing for scientific dashboard labels.
+
+Use approximately:
+Hero heading: 72–80 px desktop, bold.
+Section heading: 42–48 px.
+Card heading: 20–24 px.
+Body: 16–18 px.
+Small labels: 11–13 px with increased letter spacing.
+Buttons: 14–16 px, semibold.
+
+The visual hierarchy must be extremely clear.
+
+GLOBAL NAVIGATION:
+Every desktop screen should have the same top navigation.
+
+Place the navigation inside a centered content container approximately 1140–1200 px wide.
+
+Left side:
+Create a square rounded logo icon with a purple-to-cyan gradient. Inside it use a simple white four-point star/spark symbol representing space and discovery.
+
+Next to it:
+“Dark Matter”
+small second line:
+“Mapper”
+
+Center/right navigation:
+“Home”
+“Explore”
+“AR Mapper”
+“How It Works”
+
+The active page must have a darker rounded pill background and brighter text.
+
+Far right:
+Create a small rounded square theme button with a moon/crescent icon.
+
+Navigation should have a thin bottom border and remain visually consistent across all screens.
+
+DESKTOP SCREEN 1 — HOME:
+
+Create a premium landing page for Dark Matter Mapper.
+
+At the top of the content area, include a small cyan indicator dot followed by:
+“GRAVITATIONAL LENSING • LIVE SIMULATION”
+
+Main hero heading:
+“Map the”
+next line:
+“invisible.”
+
+Make “invisible” use a subtle purple/blue/cyan gradient while the rest of the heading is white.
+
+Under the heading add:
+“Explore how massive objects bend light and reveal hidden dark matter through an immersive AR-style overlay.”
+
+Add two buttons:
+Primary:
+“Launch AR Mapper ↗”
+Secondary:
+“Explore lensing events”
+
+Below the buttons create three statistics:
+“2.8M+”
+“simulated rays”
+
+“17”
+“lensing events”
+
+“98.4%”
+“model confidence”
+
+On the right side of the hero create a large abstract gravitational lens visualization. It should contain:
+- A dark central mass/object
+- Purple glowing center
+- Multiple thin elliptical orbital/lensing rings
+- Curved cyan and purple light paths
+- Subtle dotted orbital lines
+- Small floating label “MASS PEAK”
+- Small floating label “DARK MATTER MAP”
+
+The visualization should look like a scientific AR visualization, not a stock illustration.
+
+Below the hero create a section with the small label:
+“WHAT YOU CAN DO”
+
+Large heading:
+“From light to mass.”
+
+Supporting text:
+“Use the interface to inspect a lensing scene, adjust the model and visualize the inferred mass distribution.”
+
+Create three feature cards:
+1. “Trace light”
+Description: “Follow distorted light paths around a massive foreground object.”
+2. “Map mass”
+Description: “Visualize inferred mass density and identify the strongest lensing regions.”
+3. “Explore in AR”
+Description: “Use an AR-style overlay to understand how gravitational lensing reveals hidden structure.”
+
+Each card should have a small scientific icon and subtle purple/cyan glow.
+
+DESKTOP SCREEN 2 — EXPLORE:
+
+Create the lensing event library.
+
+Use the same global navigation.
+
+At the top:
+Small label:
+“LENSING LIBRARY”
+
+Large heading:
+“Explore events.”
+
+Supporting text:
+“Choose a scene and load it into the mapper. These are educational simulations, not scientific measurements.”
+
+Below create filter controls:
+“All”
+“Clusters”
+“Galaxies”
+“Einstein rings”
+
+The active filter should be white/light with dark text. Inactive filters should be dark with subtle borders.
+
+On the right create a search field:
+“Search event…”
+
+Below create a two-column responsive card grid.
+
+Create at least four event cards.
+
+Card 1:
+Category: “CLUSTER”
+Title: “RXC J2248.7−4431”
+Confidence: “98%”
+Description:
+“Dense galaxy cluster with a pronounced strong-lensing signal.”
+Tags:
+“z = 0.348”
+“Strong lensing”
+Button:
+“Load scene →”
+
+Card 2:
+Category: “GALAXY”
+Title: “Abell 1689”
+Confidence: “94%”
+Description:
+“Classic cluster lensing pattern with multiple distorted background galaxies.”
+Tags:
+“z = 0.183”
+“Weak + strong”
+Button:
+“Load scene →”
+
+Card 3:
+Category: “RING”
+Title: “Einstein Ring”
+Confidence: “96%”
+Description:
+“A near-perfect alignment creates a luminous ring around the foreground lens.”
+Tags:
+“z = 0.412”
+“Ring”
+Button:
+“Load scene →”
+
+Card 4:
+Category: “CLUSTER”
+Title: “MACS J0416.1−2403”
+Confidence: “92%”
+Description:
+“Complex cluster environment with multiple interacting lensing structures.”
+Tags:
+“z = 0.397”
+“Cluster”
+Button:
+“Load scene →”
+
+Each card should contain an abstract scientific visualization rather than a normal photograph. Use purple, cyan, blue and dark-space gradients with glowing galaxy/cluster shapes.
+
+The cards should feel interactive and premium.
+
+DESKTOP SCREEN 3 — AR MAPPER:
+
+This is the most important screen.
+
+Use the same navigation.
+
+At the top content area:
+Small label:
+“MAPPER / SIMULATION”
+
+Large heading:
+“Gravitational lens overlay”
+
+On the right of the heading area place:
+Secondary button:
+“Demo mode”
+Primary button:
+“Enable camera”
+
+Below create a large two-column workspace.
+
+LEFT: large AR visualization canvas approximately 760 × 560.
+
+The canvas should have:
+- Very dark background
+- Subtle grid
+- Thin curved gravitational light paths
+- Purple glowing mass concentration
+- Circular lens boundary
+- Cyan and purple rays
+- Small scientific labels
+- Corner brackets around the detected mass
+- Center label:
+“AR preview ready”
+Supporting:
+“Start Demo Mode or enable your camera.”
+
+Top-left HUD:
+Cyan dot + “LIVE OVERLAY”
+Badge:
+“RXC J2248.7−4431”
+
+Top-right HUD:
+“CAM OFF”
+
+Bottom-left HUD:
+“LATENCY 24 ms”
+“MASS MAP ON”
+
+Include small labels:
+“light deflection”
+“inferred mass peak”
+
+RIGHT: model control panel.
+
+Panel title:
+“MODEL CONTROL”
+
+Heading:
+“Lens parameters”
+
+Create three sliders:
+“Lens mass” — 72%
+“Alignment” — 64%
+“Overlay opacity” — 78%
+
+Each slider should have a dark track and glowing purple/blue circular handle.
+
+Then create three toggle controls:
+“Mass density”
+Subtext:
+“Inferred convergence map”
+
+“Light paths”
+Subtext:
+“Ray-tracing visualization”
+
+“Labels”
+Subtext:
+“Show measurement markers”
+
+All toggles should appear enabled using purple/cyan styling.
+
+Create a large primary button:
+“Analyze lensing signal →”
+
+Below it a secondary button:
+“Reset parameters”
+
+At the bottom create a confidence card:
+Small label:
+“MODEL CONFIDENCE”
+Large number:
+“98.4%”
+Supporting text:
+“Stable lensing pattern detected.”
+
+The entire AR Mapper screen should look like a real scientific visualization dashboard.
+
+DESKTOP SCREEN 4 — HOW IT WORKS:
+
+Use the same global navigation.
+
+At top:
+Small label:
+“THE SCIENCE, SIMPLIFIED”
+
+Large heading:
+“How light reveals hidden mass.”
+
+Use a subtle gradient on “hidden mass.”
+
+Supporting text:
+“Dark Matter Mapper turns the idea of gravitational lensing into an interactive learning experience.”
+
+Below create four horizontally arranged explanation cards.
+
+01
+“Background light”
+“Light from a distant galaxy travels toward an observer.”
+
+02
+“Mass bends light”
+“A foreground galaxy or cluster curves spacetime and changes the light path.”
+
+03
+“Measure distortion”
+“Arcs, stretching and convergence become observable lensing signals.”
+
+04
+“Infer dark matter”
+“A model estimates where additional unseen mass could explain the distortion.”
+
+Below create a two-column concept section.
+
+Left side:
+Create a gravitational lens diagram showing:
+- Bright distant source
+- Black/purple foreground mass
+- Curved white/cyan light paths
+- Observer point
+- Subtle glow
+
+Right side:
+Small label:
+“CORE CONCEPT”
+
+Heading:
+“Gravitational lensing”
+
+Text:
+“In general relativity, mass and energy curve spacetime. Light follows that curved geometry, so a massive foreground object can act like a cosmic lens.”
+
+Show formula:
+“θ ≈ 4GM / (c²b)”
+
+Small note:
+“The formula shown is a simplified educational relationship for deflection angle.”
+
+Below create an FAQ section with questions:
+“What is gravitational lensing?”
+“How does lensing reveal dark matter?”
+“Is the AR result a real scientific measurement?”
+“What does model confidence mean?”
+
+Use expandable-looking rows with plus icons.
+
+MOBILE PAGE:
+
+Create two mobile frames at 390 × 844.
+
+MOBILE HOME:
+Adapt the desktop Home screen for mobile.
+Use a compact top navigation with logo and menu icon.
+Stack hero content vertically.
+Heading around 46 px.
+Buttons full width or stacked.
+Statistics in a compact row/grid.
+Move the gravitational lens visualization below the hero.
+Feature cards should stack vertically.
+Maintain the exact same colors, typography, spacing language and visual identity.
+
+MOBILE AR MAPPER:
+Create a mobile version of the AR Mapper.
+Top navigation compact.
+Heading smaller.
+Demo Mode and Enable Camera buttons should be accessible.
+AR visualization should occupy approximately 390 × 420.
+Controls should appear below the visualization.
+Sliders should be large enough for touch.
+Toggle rows should be easy to tap.
+Analyze button should be full width.
+Confidence card should appear at bottom.
+
+COMPONENTS PAGE:
+
+On “03 — Components & Prototype”, create a clean design system board.
+
+Include:
+COLOR PALETTE:
+#05070D
+#0B1018
+#0F1420
+#F4F7FF
+#98A4B8
+#6F7B90
+#9A6BFF
+#6A94FF
+#5CE1E6
+
+TYPOGRAPHY:
+Display heading
+Section heading
+Card heading
+Body
+Caption
+Scientific label
+
+COMPONENTS:
+Primary button “Launch AR Mapper ↗”
+Secondary button “Explore events”
+Filter button “Clusters”
+Search input
+Navigation item
+Event card
+Slider
+Toggle
+Badge
+Confidence card
+
+Use auto layout and reusable components where practical. Keep components visually consistent with the screens.
+
+PROTOTYPE:
+Create a simple working prototype flow.
+
+Home → clicking “Launch AR Mapper” goes to AR Mapper.
+Home → clicking “Explore lensing events” goes to Explore.
+Navigation “Explore” goes to Explore.
+Navigation “AR Mapper” goes to AR Mapper.
+Navigation “How It Works” goes to How It Works.
+Explore “Load scene →” goes to AR Mapper.
+How It Works navigation returns to Home or other screens.
+Use “Smart Animate” where appropriate and simple instant transitions where appropriate.
+
+INTERACTION STATES:
+Create realistic hover/active states for important buttons and navigation items if possible.
+Primary buttons should slightly brighten on hover.
+Cards should have subtle border/glow on hover.
+Sliders should visually respond.
+Toggles should have enabled and disabled states.
+Search field should have focused state.
+
+IMPORTANT DESIGN RULES:
+Do not use generic corporate illustrations.
+Do not use bright white backgrounds.
+Do not use excessive rainbow colors.
+Do not make the interface look like a gaming website.
+Do not use random unrelated images.
+Do not use photographs as the main visual.
+Use abstract scientific visualizations made from shapes, gradients, curves, circles, grids and glows.
+Maintain strong alignment and spacing.
+Use a maximum content width around 1200 px on desktop.
+Use consistent 8 px spacing principles.
+Use 12–20 px corner radii for cards.
+Use subtle borders.
+Keep the visual hierarchy identical across screens.
+Make the result presentation-ready for a university UI/UX project.
+
+The final Figma file must look like one coherent product designed by the same designer. The four desktop screens, two mobile screens, and component board must clearly belong to the same Dark Matter Mapper product.
+
+The final project title is:
+“Dark Matter Mapper — Gravitational Lensing AR Overlay”
+
+The final interface should communicate:
+AR/VR
+Universe exploration
+Gravitational lensing
+Dark matter
+Scientific visualization
+Interactive learning
+Astronomy
+Modern futuristic UI
+
+Prioritize completeness, visual consistency, professional spacing, high-fidelity components, and a polished final result. Create all specified frames and content in one generation without asking for additional clarification.
